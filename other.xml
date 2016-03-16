@@ -1,0 +1,317 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+        <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+        <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+          <value />
+        </option>
+        <option name="IMPORT_LAYOUT_TABLE">
+          <value>
+            <package name="android" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="com" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="junit" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="net" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="java" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="javax" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="" withSubpackages="true" static="true" />
+            <emptyLine />
+          </value>
+        </option>
+        <option name="RIGHT_MARGIN" value="100" />
+        <AndroidXmlCodeStyleSettings>
+          <option name="USE_CUSTOM_SETTINGS" value="true" />
+        </AndroidXmlCodeStyleSettings>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+        <codeStyleSettings language="XML">
+          <option name="FORCE_REARRANGE_MODE" value="1" />
+          <indentOptions>
+            <option name="CONTINUATION_INDENT_SIZE" value="4" />
+          </indentOptions>
+          <arrangement>
+            <rules>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>xmlns:android</NAME>
+                      <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>xmlns:.*</NAME>
+                      <XML_NAMESPACE>Namespace:</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:id</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:name</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>name</NAME>
+                      <XML_NAMESPACE>^$</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>style</NAME>
+                      <XML_NAMESPACE>^$</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*</NAME>
+                      <XML_NAMESPACE>^$</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:layout_width</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:layout_height</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:layout_.*</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:width</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*:height</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*</NAME>
+                      <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+              <section>
+                <rule>
+                  <match>
+                    <AND>
+                      <NAME>.*</NAME>
+                      <XML_NAMESPACE>.*</XML_NAMESPACE>
+                    </AND>
+                  </match>
+                  <order>BY_NAME</order>
+                </rule>
+              </section>
+            </rules>
+          </arrangement>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="Gradle Invocation (success)" />
+        <option value="TestRunner" />
+      </set>
+    </option>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Request" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
