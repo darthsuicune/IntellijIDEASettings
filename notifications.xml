@@ -14,6 +14,7 @@
     <notification groupId="Groovy DSL errors" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="notification.group.id.gradle" displayType="TOOL_WINDOW" />
     <notification groupId="Reformat Code" />
