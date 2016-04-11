@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="FREngine 10">
+      <CLASSES>
+        <root url="jar://C:/ProgramData/ABBYY/SDK/10/FineReader Engine/Inc/Java/com.abbyy.FREngine.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="FREngine 11">
       <CLASSES>
         <root url="jar://C:/ProgramData/ABBYY/SDK/11/FineReader Engine/Inc/Java/com.abbyy.FREngine.jar!/" />
