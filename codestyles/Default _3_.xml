@@ -2,6 +2,9 @@
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
   </JavaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="JAVA">
     <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <option name="CLASS_ANNOTATION_WRAP" value="1" />
